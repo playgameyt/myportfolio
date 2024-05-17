@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    background-image:linear-gradient(grey, rgba(245, 245, 245, 0.831), gray) ;
+    border: double 15px black;
+}
+
+h2 {
+    background-image:linear-gradient(rgba(245, 245, 245, 0.831), grey, rgba(245, 245, 245, 0.831)) ;
+    border: double 15px black;
+}
+
+ol {
+    background-image:linear-gradient(rgba(245, 245, 245, 0.831), grey, rgba(245, 245, 245, 0.831)) ;
+    border: double 15px black;
+}
+
+.help-sites {
+    background-image:linear-gradient(rgba(245, 245, 245, 0.831), grey, rgba(245, 245, 245, 0.831)) ;
+    border: double 15px black;
+}
